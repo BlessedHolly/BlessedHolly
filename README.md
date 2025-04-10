@@ -13,6 +13,8 @@ My name is Yaroslav, let's get acquainted.
 # Tools 🛠:
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23333?logo=visual%20studio%20code&logoColor=%23007ACC) ![ESLint](https://img.shields.io/badge/ESLint-%23E34F26?logo=eslint&logoColor=%23fff&color=%234B32C3) ![Prettier](https://img.shields.io/badge/Prettier-%23E34F26?logo=prettier&logoColor=%23fff&color=%23C086C2) ![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974) ![Figma](https://img.shields.io/badge/Figma-%23333?logo=figma&logoColor=white) ![Pixel Perfect](https://img.shields.io/badge/Pixel%20Perfect-%23333?style=flat&logo=googlechrome&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessedHolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Contact me
 * <a href="https://altairis.vercel.app/user/67f3d1cb005627876a49a947">
     <img src="https://img.shields.io/badge/Altairis-%23333?style=flat&logo=googlechrome&logoColor=white" alt="Altaitis Badge"/>
